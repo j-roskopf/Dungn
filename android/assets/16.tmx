@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.1" orientation="orthogonal" renderorder="right-down" width="64" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="45">
+ <tileset firstgid="1" source="Dungeon_Tileset.tsx"/>
+ <objectgroup id="2" name="collidable">
+  <object id="34" x="0" y="0" width="1024" height="16"/>
+  <object id="36" x="1008" y="16" width="16" height="192"/>
+  <object id="39" x="16" y="192" width="992" height="16"/>
+  <object id="44" x="0" y="16" width="16" height="192"/>
+ </objectgroup>
+ <layer id="1" name="Tile Layer 1" width="64" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzllE8PgjAMxcF/KF5E8eIUL15E8ft/PN6SLWmaTgZskuDhl6zNWPraR9MkSRZgCVZg/UdsQAoysAU7kBN4fm7xwegvwBGcQEnu8fzcYqv/133PJ567jS9s/q7/IDSlkJvCB3b+yqG9jEQl5KQ+3cxdXd81Qmzn79JeGbKB0DerDqQ+xfSg5iHol3QUA/DpCZ+LT09CQvW7tPbdCcrA35B6Inmuqych0fr3TLci9PX4WM/G3vu8Pq3/LOi2/ffxOd2rYz0be+/z+rT+u6Db+kN5ENKrsfa8qz6t/wlq8AJvcq474Hfs940QNyQ/lm+1STXxPK3rA1pHLjkR
+  </data>
+ </layer>
+</map>
